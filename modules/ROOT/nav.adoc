@@ -1,8 +1,24 @@
-* xref:inline-text-formatting.adoc[]
-* xref:special-characters.adoc[]
-* xref:admonition.adoc[]
-* xref:sidebar.adoc[]
-* xref:ui-macros.adoc[]
-* Lists
-** xref:lists/ordered-list.adoc[]
-** xref:lists/unordered-list.adoc[]
+* xref:instructions.adoc[]
+* Wordpressist üldiselt
+** xref:software-architecture.adoc[]
+** xref:lists/translations.adoc[]
+** xref:lists/updates.adoc[]
+** xref:lists/plugins.adoc[]
+** xref:lists/database.adoc[]
+
+* Kasutusjuhend
+* xref:basic.adoc[]
+* xref:login.adoc[]
+* xref:dashboard.adoc[]
+* xref:editing.adoc[]
+* xref:refresh.adoc[]
+
+* Eksponaadid
+* xref:e1.adoc[]
+* xref:e2.adoc[]
+* xref:e3.adoc[]
+* xref:e4.adoc[]
+* xref:e5.adoc[]
+* xref:e6.adoc[]
+* xref:e7.adoc[]
+* xref:e8.adoc[]
