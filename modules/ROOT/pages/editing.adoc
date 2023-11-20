@@ -1,0 +1,13 @@
+= Sisude muutmine
+
+1. Ava halduses "Pages" alt tabelist mängu nimega kirje.
+
+image::3.png[]
+
+2. Muuda välju vastavalt soovile (olemasoleva lause leidmiseks võib kasutada brwoseri otsingut `CTRL+F`)
+
+image::4.png[]
+
+3. Salvesta muudatused vajutades `UPDATE` nuppu
+
+4. Pärast uuendamist tuleks külastada rakenduse linki (külastaja poolset) ning veenduda, et muudatused jõustusid.

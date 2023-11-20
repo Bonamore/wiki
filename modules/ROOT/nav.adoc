@@ -9,8 +9,6 @@
 ** xref:install.adoc[]
 
 * Kasutusjuhend
-* xref:basic.adoc[]
-* xref:login.adoc[]
-* xref:dashboard.adoc[]
-* xref:editing.adoc[]
-* xref:refresh.adoc[]
+** xref:basic.adoc[]
+** xref:login.adoc[]
+** xref:editing.adoc[]
