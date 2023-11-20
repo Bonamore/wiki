@@ -1,0 +1,9 @@
+= Wordpressi pluginad
+
+== Pluginate nimekiri
+
+* Advanced Custom Fields Pro - võimaldab tekitada haldusesse väljad tekstide ja piltide haldamiseks .
+* SVG Support - lisab võimaluse lisada SVG lisamise tugi Wordpress meediateeki. Vaikimisi on Wordpressis SVG formaat keelatud.
+* Wordfence Security - turvalisus.
+* WP-SCSS - css kompliaator
+* Duplicator (osades rakendustes) - võimadab kergesti luua Wordpressi rakenduset koopia

@@ -1,0 +1,13 @@
+= Wordpressi uuendamine
+
+== Üldine
+
+*Wordpressi palume uuendada ainult omal vastatusel.*
+
+Wordpressis on võimalik uuendada tuumi (CMS) versiooni ja pistikprogrammide versioone.
+Uuendamisel võivad tekkida pluginate vahel konfliktid. Seega tuleks enne uuendamist alati teostada varundus Wordpressi failidest ja andmebaasist. 
+
+1. Andmebaasist on võimalik teha eksport PHPMYADMIN keskkonna abil.
+2. Failid tuleks kopeerida ja ZIP'da varundamise eesmärgil.
+
+Uuendamisi tasuks teostada `demo` keskkonnas ja pärast testimist alles tõsta uuendatud Wordpress LIVE keskkonda.

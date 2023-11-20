@@ -1,0 +1,5 @@
+= Wordpressi andmebaas
+
+== Üldine
+
+image::WP4.4.2-ERD.png[]

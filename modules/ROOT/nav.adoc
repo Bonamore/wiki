@@ -1,10 +1,9 @@
 * xref:instructions.adoc[]
 * Wordpressist üldiselt
 ** xref:software-architecture.adoc[]
-** xref:lists/translations.adoc[]
-** xref:lists/updates.adoc[]
-** xref:lists/plugins.adoc[]
-** xref:lists/database.adoc[]
+** xref:updates.adoc[]
+** xref:plugins.adoc[]
+** xref:database.adoc[]
 
 * Kasutusjuhend
 * xref:basic.adoc[]
