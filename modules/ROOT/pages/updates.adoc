@@ -11,3 +11,25 @@ Uuendamisel võivad tekkida pluginate vahel konfliktid. Seega tuleks enne uuenda
 2. Failid tuleks kopeerida ja ZIP'da varundamise eesmärgil.
 
 Uuendamisi tasuks teostada `demo` keskkonnas ja pärast testimist alles tõsta uuendatud Wordpress LIVE keskkonda.
+
+== Kasutatud tehnoloogiad
+
+=== Keeled
+
+* HTML
+* css
+* Javascript
+* PHP
+
+=== Teegid
+
+* jQuery
+* Bootstrap
+
+=== Sisuhaldussüsteemid
+
+* Wordpress
+
+=== Käituskeskkonnad
+
+* Node.js

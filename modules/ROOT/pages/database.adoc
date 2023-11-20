@@ -3,3 +3,5 @@
 == Üldine
 
 image::WP4.4.2-ERD.png[]
+
+Allikas: https://codex.wordpress.org/Database_Description. Paigaldatud pistikprogramm Wordfence võib paigaldada töötamiseks erinevaid tabeleid andmebaasi.

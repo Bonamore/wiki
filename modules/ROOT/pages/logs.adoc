@@ -1,0 +1,3 @@
+= Wordpressi logid
+
+Rakendus töötab Wordpress platvormil. Logimise funktsionaalsus on võimalik lülitada sisse muutes root kaustas oleva `wp-config.php` failis oleva define( 'WP_DEBUG', false ); väärtus "true"ks (rida 82). Pärast aktiveerimist salvestatakse tulevased veateated (sh. hoiatused) Wordpressi vealogidesse. Esialgu on logi fail tühi. Logisse kirjutatakse vastavalt vajadusele pärast igat lehe laadimist. Logidega tutvumiseks tuleks liikuda kausta ROOT/wp-content. Kausta seest leiate faili nimega debug.log. Fail debug.log sisaldab kõiki Wordpressi teateid, hoiatusi ja erroreid, mis on logitud. NB! Vaikimisi on logimine lülitatud välja!

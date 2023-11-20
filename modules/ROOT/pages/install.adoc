@@ -1,0 +1,7 @@
+= Tarne- ja paigaldusjuhendid
+
+1) Lähtekoodi tõstmine keskkonda - tuleks kopeerida kõik rakendusega seotud failid serverisse; 
+2) Paigaldada MySQL serverisse ja tekitada uus tühi andmebaas (kasutades phpMyAdmin liidest serveris); 
+2) Importida repositooriumis olevast "sql_dump" kaustas oleva faili "data.sql" andmebaasi; 
+3) Andmebaasis "#__options" tabelist muuta "siteurl" ja "home" väärtused (link, kust rakendust hostitakse). 
+4) Avada root kaustas olev fail "wp-config.php" ja muuta andmebaasi andmed (rida 23-32)

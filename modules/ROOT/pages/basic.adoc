@@ -1,0 +1,33 @@
+= Üldine informatsioon
+
+== Dashboard
+
+image::1.png[]
+
+Võimalik näha informatsiooni seoses Wordpress versiooni kohta. Lisaks on võimalik näha Wordfence plugina tagasisidet ja üldist informatsiooni Wordpressi kohta. Media - rakendusega seotud pildid. On võimalik näha üles laetud fotosid (muuta/eemaldada/lisada juurde). 
+
+== Media
+
+image::2.png[]
+
+VÕimalik hallata Wordpress meediateeki lisatud meediat.
+
+== Pages
+
+image::3.png[]
+
+image::4.png[]
+
+Rakendusega seotud lehed ja nende tekstide muutmine. Kõik rakendusega seotud tekstid ja pildid laetakse ühele lehele (rakenduse nimelisele). Korrektuure on kõige lihtsam teha otsides olemasolevat fraasi (kasutades ctrl+f) funktsionaalsust. Pärast teksti/piltide muudatuste tegemist tuleb vajutada ülal-paremal olevat nuppu "Update". Seejärel on uuel laadimisel teksti/pildi muudatused jõustunud. 3 keele haldamine käib kõik ühest kohast ja on eristatud riigi liitega (EST, ENG või RUS); 
+
+== Plugins
+
+image::5.png[]
+
+Rakendusse paigaldatud pistikprogrammid (siin on võimalik pistikprogramme uuendada/lisada/eemaldada); 
+
+== Users
+
+image::6.png[]
+
+Tabel olemasolevate administraator kasutajatega. Vajutades "Add new" nupule on võimalik lisada kasutajaid juurde. Kasutajal on kohustuslik määrata "kasutajanimi", "e-posti aadress" ja "parool". Lisaks on soovituslik LIVE keskkonnas aktiveerida 2FA. Kasutajagrupiks tuleks määrata "Administrator". Tools - Wordpressi sisseehitatud funktsionaalsused, näiteks andmetega import/eksport; Settings - Wordpressi põhilised seaded; ACF - tekstide ja piltide haldamise funktsionaalsuse tagamise tööriist (siit ei tohi loodud väljasid eemaldada); Wordfence - paigaldatud turvalisuse tööriist, mis aitab hoida Wordpressi keskkonda turvalisena.

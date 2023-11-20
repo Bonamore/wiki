@@ -4,6 +4,9 @@
 ** xref:updates.adoc[]
 ** xref:plugins.adoc[]
 ** xref:database.adoc[]
+** xref:logs.adoc[]
+** xref:audent.adoc[]
+** xref:install.adoc[]
 
 * Kasutusjuhend
 * xref:basic.adoc[]
@@ -11,13 +14,3 @@
 * xref:dashboard.adoc[]
 * xref:editing.adoc[]
 * xref:refresh.adoc[]
-
-* Eksponaadid
-* xref:e1.adoc[]
-* xref:e2.adoc[]
-* xref:e3.adoc[]
-* xref:e4.adoc[]
-* xref:e5.adoc[]
-* xref:e6.adoc[]
-* xref:e7.adoc[]
-* xref:e8.adoc[]

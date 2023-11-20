@@ -1,0 +1,14 @@
+= Autentimise ja autoriseerimise lahendus
+
+Wordpressis on eraldi administraatorite keskkond, kus on võimalik muuta rakendusega seotud tekste ja pilte. Wordpressi administraator keskkond asub http://<url>/wp-admin lingil, kus on õiguse saanud kasutajatel võimalik logida administraator keskkonda. Kasutaja on seotud unikaalse e-posti aadressiga ja omavad rolli "administraator". Lisaks on võimalik tänu Wordfence pistikprogrammile aktiveerida kasutajatel 2FA audentimine (näiteks kasutada selleks Google Authenticator mobiilirakendust: https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US&pli=1).
+
+Üleandmise hetkel on Wordpressi halduse lingid järgmised:
+
+* E1 - Intervjuu boks - https://intervjuu.minukarjaar.ee/wp-admin
+* E2 - LEKK AR peegel - puudub
+* E3 - LEKK loosiratas - http://127.0.0.1/loosiratas (läbi Teamvieweri masinasse sisenedes)
+* E4 - LEKK värvitaju, ruumitaju ja keeletaju - http://172.16.1.197/varvitaju, http://172.16.1.197/ruumitaju, http://172.16.1.197/keeletaju
+* E5 - LEKK arvutite avavaade - puudub
+* E6 - LEKK seljakott - http://127.0.0.1/seljakott (hiljem muutub http://172.16.1.197/seljakott)
+* E7 - LEKK unistuste töölaud - http://127.0.0.1/unistustetoolaud (hiljem muutub http://172.16.1.197/unistustetoolaud)
+* E8 - LEKK tasakaal - http://127.0.0.1/tasakaal
