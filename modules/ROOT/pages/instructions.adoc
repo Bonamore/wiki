@@ -1,7 +1,5 @@
 = Sissejuhatud
 
-== Bold and italic
-
 See dokument kirjeldab tarkvaralahendusi, mis on arendatud Bonamore poolt lõppkliendile Karjäärikeskus. Tarkvaralahendused põhinevad Wordpress tehnoloogial.
 Kirjeldatud on järgmiste eksponaatide kasutusjuhendid ja hooldusjuhendid:
 
