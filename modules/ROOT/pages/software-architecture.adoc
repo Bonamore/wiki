@@ -1,0 +1,36 @@
+= Tarkvara arhitektuur
+
+== Üldine
+
+Üleandmise hetkel on Wordpressi versioon 6.4.1
+
+Kasutusel on <i>theme</i> nimega Bonamore. Selle asukoht on `wp-content/themes/Bonamore`
+
+=== Failid
+
+* PHP template failid
+** `functions.php` - läbiv funktsionaalsus
+** `header.php` - päis
+** `front-page.php` - lehe struktuur
+** `footer.php` - jalus
+** `index.php` - kausta indekseerimise fail
+** `page.php` - Wordpress page.php põhi
+** `/parts` - asuvad erinevad templiidi failid
+
+* Stiil
+** `style.css`
+** `scss` - kaust
+** `assets` - kaust
+
+* Javascript
+** `js` - kaust
+** `assets` - kaust
+
+* Pildid ja ikoonid
+** `img` - kaust
+
+* Muu
+** `dompdf` - PDF genereerimise `library`
+** `email.php` - e-kirja saatmise loogika
+** `savepng.php` - pildi salvestamise loogika
+** `fonts` - kaust rakenduses kasutatavate fontide tarvis
